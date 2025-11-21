@@ -1,5 +1,5 @@
-![Repo Views](https://komarev.com/ghpvc/?username=DevArqf&repo=API-Header-Spoofer&color=blue&style=flat-square&label=Repo+Views)
-![Total Views](https://komarev.com/ghpvc/?username=DevArqf&color=green&style=flat-square&label=Total+Views)
+![Repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevArqf%2FAPI-Header-Spoofer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=DevArqf&color=green&style=flat-square&label=Profile+Views)
 ![Stars](https://img.shields.io/github/stars/DevArqf/API-Header-Spoofer?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/DevArqf/API-Header-Spoofer?style=flat-square)
 
